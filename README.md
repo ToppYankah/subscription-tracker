@@ -1,2 +1,2 @@
 # subscription-tracker
-Track subscriptions to services
+Track all your subscriptions
